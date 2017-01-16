@@ -10,7 +10,7 @@
 }
 
 #slider, #slider .sliderInner {
-    width:100%;max-width:1210px;height:350px;/* Must be the same size as the slider images */
+    width:100%;max-width:1220px;height:350px;/* Must be the same size as the slider images */
     border-radius:3px;
 }
 
