@@ -5,12 +5,12 @@
 }
 #sliderFrame 
 {
-    width:1220px;
+    width:100%;
     margin:0 auto; /*center-aligned*/
 }
 
 #slider, #slider .sliderInner {
-    width:1220px;height:350px;/* Must be the same size as the slider images */
+    width:100%;max-width:1220px;height:350px;/* Must be the same size as the slider images */
     border-radius:3px;
 }
 
